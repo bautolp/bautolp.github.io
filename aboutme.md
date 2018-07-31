@@ -11,7 +11,9 @@ Currently I am working at **Lucid Vision Labs** as a **Firmware Test Engineer Co
 I am an **Electrical Engineering student** at the **University of Victoria**. I will be graduating in December of 2018.
 
 ### Interests
+- Computer Vision
+- Image Processing
+- Computer systems and architecture
+- Computer programming
 - Hiking
 - Mountain biking
-- Computer systems and electronics
-- Computer programming
